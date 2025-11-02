@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd{
+    background-color: pink;
+    font-family:Verdana,"DejaVu Sans",sans-serif;
+    font-size: 15px;
+}
+#two{
+    color: blue;
+    font-size: 27px;
+}
+.cooler{
+    font-size: 20px;
+}
+
+#four{
+    background-color:aquamarine;
+    font-weight: bold;
+    font-size: 20px;
+}
